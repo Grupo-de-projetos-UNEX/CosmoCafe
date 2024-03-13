@@ -58,8 +58,9 @@ html {
 
 .localite .container-banner {
   width: 100%;
-  height: 500px;
+  height: 800px;
   background-repeat: no-repeat;
   background-position: left;
+  background-position-y: top;
   background-size: cover;
 }
